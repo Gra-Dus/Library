@@ -1,0 +1,11 @@
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\bin\Debug\Library.exe
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\bin\Debug\Library.pdb
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\Debug\Library.exe
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\Debug\Library.pdb
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\Debug\Library.Books.resources
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\Debug\Library.Authors.resources

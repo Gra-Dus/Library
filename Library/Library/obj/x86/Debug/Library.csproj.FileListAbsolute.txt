@@ -1,0 +1,69 @@
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\bin\x86\Debug\Library.exe
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\bin\x86\Debug\Library.pdb
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\x86\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\x86\Debug\Library.Authors.resources
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\x86\Debug\Library.Books.resources
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\x86\Debug\Library.Form1.resources
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\x86\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\x86\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\x86\Debug\Library.exe
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\obj\x86\Debug\Library.pdb
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\bin\x86\Debug\biblioteka.mdb
+C:\Users\Влад\Desktop\Библиотека C#\Library\Library\bin\x86\Debug\Library.exe.config
+D:\Библиотека C#\Library\Library\bin\x86\Debug\biblioteka.mdb
+D:\Библиотека C#\Library\Library\bin\x86\Debug\Library.exe.config
+D:\Библиотека C#\Library\Library\bin\x86\Debug\Library.exe
+D:\Библиотека C#\Library\Library\bin\x86\Debug\Library.pdb
+D:\Библиотека C#\Library\Library\obj\x86\Debug\Library.csprojAssemblyReference.cache
+D:\Библиотека C#\Library\Library\obj\x86\Debug\Library.Authors.resources
+D:\Библиотека C#\Library\Library\obj\x86\Debug\Library.Books.resources
+D:\Библиотека C#\Library\Library\obj\x86\Debug\Library.Form1.resources
+D:\Библиотека C#\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+D:\Библиотека C#\Library\Library\obj\x86\Debug\Library.csproj.GenerateResource.cache
+D:\Библиотека C#\Library\Library\obj\x86\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Библиотека C#\Library\Library\obj\x86\Debug\Library.exe
+D:\Библиотека C#\Library\Library\obj\x86\Debug\Library.pdb
+D:\Библиотека C#\Library\Library\obj\x86\Debug\Библиотека.Forformular1.resources
+E:\Библиотека C#\Library\Library\bin\x86\Debug\biblioteka.mdb
+E:\Библиотека C#\Library\Library\bin\x86\Debug\Library.exe.config
+E:\Библиотека C#\Library\Library\bin\x86\Debug\Library.exe
+E:\Библиотека C#\Library\Library\bin\x86\Debug\Library.pdb
+E:\Библиотека C#\Library\Library\obj\x86\Debug\Library.csprojAssemblyReference.cache
+E:\Библиотека C#\Library\Library\obj\x86\Debug\Library.Authors.resources
+E:\Библиотека C#\Library\Library\obj\x86\Debug\Library.Books.resources
+E:\Библиотека C#\Library\Library\obj\x86\Debug\Библиотека.Forformular1.resources
+E:\Библиотека C#\Library\Library\obj\x86\Debug\Library.Form1.resources
+E:\Библиотека C#\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+E:\Библиотека C#\Library\Library\obj\x86\Debug\Library.csproj.GenerateResource.cache
+E:\Библиотека C#\Library\Library\obj\x86\Debug\Library.csproj.CoreCompileInputs.cache
+E:\Библиотека C#\Library\Library\obj\x86\Debug\Library.exe
+E:\Библиотека C#\Library\Library\obj\x86\Debug\Library.pdb
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\bin\x86\Debug\biblioteka.mdb
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\bin\x86\Debug\Library.exe.config
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\bin\x86\Debug\Library.exe
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\bin\x86\Debug\Library.pdb
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\obj\x86\Debug\Library.csprojAssemblyReference.cache
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\obj\x86\Debug\Library.Authors.resources
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\obj\x86\Debug\Library.Books.resources
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\obj\x86\Debug\Библиотека.Forformular1.resources
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\obj\x86\Debug\Library.Form1.resources
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\obj\x86\Debug\Library.csproj.GenerateResource.cache
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\obj\x86\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\obj\x86\Debug\Library.exe
+C:\Users\bonda\OneDrive\Рабочий стол\Library\Library\obj\x86\Debug\Library.pdb
+C:\Users\ireme\Downloads\Library\Library\Library\bin\x86\Debug\biblioteka.mdb
+C:\Users\ireme\Downloads\Library\Library\Library\bin\x86\Debug\Library.exe.config
+C:\Users\ireme\Downloads\Library\Library\Library\bin\x86\Debug\Library.exe
+C:\Users\ireme\Downloads\Library\Library\Library\bin\x86\Debug\Library.pdb
+C:\Users\ireme\Downloads\Library\Library\Library\obj\x86\Debug\Library.csprojAssemblyReference.cache
+C:\Users\ireme\Downloads\Library\Library\Library\obj\x86\Debug\Library.Authors.resources
+C:\Users\ireme\Downloads\Library\Library\Library\obj\x86\Debug\Library.Books.resources
+C:\Users\ireme\Downloads\Library\Library\Library\obj\x86\Debug\Библиотека.Forformular1.resources
+C:\Users\ireme\Downloads\Library\Library\Library\obj\x86\Debug\Library.Form1.resources
+C:\Users\ireme\Downloads\Library\Library\Library\obj\x86\Debug\Library.Properties.Resources.resources
+C:\Users\ireme\Downloads\Library\Library\Library\obj\x86\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ireme\Downloads\Library\Library\Library\obj\x86\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ireme\Downloads\Library\Library\Library\obj\x86\Debug\Library.exe
+C:\Users\ireme\Downloads\Library\Library\Library\obj\x86\Debug\Library.pdb
